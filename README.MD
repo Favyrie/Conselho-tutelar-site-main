@@ -12,7 +12,7 @@
 *Projeto construído em parceria com brianluca99*
 
 ## Acesse pelo Link:
- ( https://github.com/Favyrie/Conselho-tutelar-site-main/deployments/github-pages )
+ ( https://favyrie.github.io/Conselho-tutelar-site-main/ )
 
 ## Tecnologias
 
